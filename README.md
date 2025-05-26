@@ -14,3 +14,6 @@
 ### The basic difference between CHAR and VARCHAR is that the CHAR data type is fixed in length, while the VARCHAR data type supports variable-length columns.
 
 
+
+# Explain the GROUP BY clause and its role in aggregation operations.
+### The GROUP BY clause in SQL groups rows with identical values in one or more columns, enabling the application of aggregate functions to calculate summaries for each group
