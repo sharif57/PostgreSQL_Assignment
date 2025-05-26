@@ -49,7 +49,7 @@ INSERT INTO rangers (name, region) VALUES ('Mahmud Hasan', 'Madhupur National Pa
 SELECT COUNT(DISTINCT species_id) AS unique_species_count
 FROM sightings;
 
--- Problem 3: Find sightings where location includes "Pass"
+-- Problem 3
 SELECT *
 FROM sightings
 WHERE location LIKE '%Pass%';
